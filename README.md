@@ -1,86 +1,98 @@
-# Sprint 3 IT Academy | Video management tool
+SPANISH V.
 
-## Introduction
+## 🌸 Descripción
 
-A company in the audiovisual sector has asked us for a web application that will allow their employees to quickly find movies from a large database they have, since the process is currently done manually.
+Este proyecto forma parte de una serie de sprints realizados en IT Academy - Barcelona Activa.
 
-You will be in charge of setting up the core of the application: all the logic of filtering and sorting of movies. You have 2 weeks to finish, which is how long this sprint lasts.
+Este Sprint corresponde al 03.1.
 
-<br>
+Objetivos: 
+- Comprender y practicar métodos: Map, reduce y filter.
+- Crear pruebas unitarias.
+- Aprender a manipular un conjunto de datos.
 
-## Requirements
+![alt text](assets/image.png)
+![alt text](assets/image%20copy.png)
 
+## 💻 Tecnologias usadas
 
-1. Clone this repo
-```bash
-$ git clone https://github.com/IT-Academy-BCN/starter-code-frontend-sprint-3-movies
-```
+- Javascript Vanilla
+- jest: 29.2.2
 
-2. Unlink your repo from the itacademy repository
-```bash
-$ git remote rm origin
-```
+## ⚙️ Instalación
 
-3. Link your repo to the repository you have to create in your github account
-```bash
-$ git remote add origin <your repo name!>
-```
+Para instalarlo en la computadora, debes seguir estos pasos:
 
-<br>
-
-## Submission
-
-1. Upon completion, run the following commands:
+1. Clona el repositorio
 
 ```bash
-$ git add .
-$ git commit -m "Sprint Solution"
-$ git push origin master
-```
+https://github.com/ImLauraGS/javascript_II.git
+``` 
+2. Instalar dependencias.
 
-2. Create Pull Request.
+```bash
+npm install
+``` 
+3. Correr los tests.
 
-3. Upload the link to the virtual campus so that your mentor can correct it and give you feedback.
+```bash
+npm test
+``` 
 
+## 🔗 Autora
 
-
-<br>
-
-## Introduction
-
-The statement of the exercise is available on the virtual campus.
-
-<br>
-
-## Tests!
+![Laura](https://avatars.githubusercontent.com/ImLauraGS?s=50) 
+Laura G. 
+[LinkedIn](https://www.linkedin.com/in/laura-gil-solano/)
 
 
-```shell
-$ npm install
-$ npm run test:watch
-```
+_______________________________________________________________________
 
-And last, open the generated `test-results.html` file with the "Live Server" VSCode extension to see test results.
+ENGLISH V.
 
-Apart from the statement, you will know exactly what you are asked to do by looking at the file `tests/films.spec.js`, all tests are already defined here!
+## 🌸 Description
 
-<br>
+ This project is part of a series of sprints carried out at IT Academy - Barcelona Activa.
+ This Sprint corresponds to 03.1.
+ 
+ Objectives:
+- Understanding and practicing methods: Map, reduce, and filter.
+- Creating Unit Tests.
+- Learning to manipulate a dataset.
 
-## Instructions
+![alt text](assets/image.png)
+![alt text](assets/image%20copy.png)
+ 
 
-You have the following indications from the frontend responsible:
+## 💻 Technologies Used
 
-- It is mandatory to implement all loops in ES6 (using map, reduce, filter and sort to manipulate arrays).
-
-- As at the moment we don't consume data from a server using an API, we will work with data from the src/data.js archive. For the moment we will implement the logic using
-an array of information about 250 movies.
-
-- The implementation is about processing this array of movies, to display it as requested in each exercise.
-
-- The logic to implement will be placed in the src/films.js file.
-
-- You don't need to show the result of each function on the screen. Your goal is to pass the tests.  More information on how to program oriented to pass tests at the end of the document.
-
-- Don't forget to include the capture of the test results in the virtual campus.
+- Javascript Vanilla
+- jest: 29.2.2
 
 
+## ⚙️ Installation
+ To install it on your computer, follow these steps:
+
+ 1. Clone the repository
+
+ ```bash
+https://github.com/ImLauraGS/e-commerce_JS.git
+``` 
+
+2. Install dependencies.
+
+```bash
+npm install
+``` 
+
+3. Run the tests.
+
+
+```bash
+npm test
+``` 
+ 
+## 🔗 Author
+ ![Laura](https://avatars.githubusercontent.com/ImLauraGS?s=50) 
+ Laura G. 
+ [LinkedIn](https://www.linkedin.com/in/laura-gil-solano/)
